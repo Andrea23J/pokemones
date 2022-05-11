@@ -1,2 +1,2 @@
 # pokemones
-Aplicaciones de la app 
+Aplicaciones de uso de Api
